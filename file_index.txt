@@ -1,0 +1,5 @@
+t000000 v:cl_st1_eduardo_cvdc-output\1_-_Apresentando_a_Linguística_de_Corpus.pt-orig.txt d:2024-04-16 url:no_url
+t000001 v:cl_st1_eduardo_cvdc-output\2_-_O_que_é_Linguística_de_Corpus？.pt-orig.txt d:2024-04-16 url:no_url
+t000002 v:cl_st1_eduardo_cvdc-output\3_-_Aula_aberta_-_Linguística_de_Corpus_para_Tradutores.pt-orig.txt d:2024-04-16 url:no_url
+t000003 v:cl_st1_eduardo_cvdc-output\4_-_Análise_do_discurso_-_Coleção_linguística_para_ensino_superior..pt-orig.txt d:2024-04-16 url:no_url
+t000004 v:cl_st1_eduardo_cvdc-output\5_-_Linguística_IV___Aula_01___Introduçãoà_Análise_do_Discurso.pt-orig.txt d:2024-04-16 url:no_url
